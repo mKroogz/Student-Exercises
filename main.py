@@ -2,6 +2,7 @@ from student import Student
 from instructor import Instructor
 from exercise import Exercise
 from cohort import Cohort
+from nss_person import NSS_Person
 
 students = []
 
