@@ -6,11 +6,11 @@ from nss_person import NSS_Person
 
 students = []
 
-minecraft = Exercise("Minecraft", "Java")
+minecraft = Exercise("Minecraft", "Javascript")
 bank_account = Exercise("Bank Account", "C#")
 capstone = Exercise("Capstone", "Javascript")
 snake = Exercise("Snake Game", "Python")
-fizz_buzz = Exercise("FizzBuzz", "Any")
+fizz_buzz = Exercise("FizzBuzz", "Python")
 
 C37 = Cohort("Day Cohort 37")
 C38 = Cohort("Day Cohort 38")
