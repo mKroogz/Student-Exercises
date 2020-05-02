@@ -11,3 +11,6 @@ class Cohort:
     def assign_instructor(self, instructor):
         instructor.cohort = self.name
         self.instructors.append(instructor)
+
+    def __repr__(self):
+        return f'{self.name}'
